@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dBianchii
-- 👀 I’m interested in Typescript, React, T3 Stack
-- 🌱 I’m currently learning the T3 stack
+- 👀 I’m a software developer based in Brazil. I am building an idea for a startup using the [T3 Stack](https://github.com/t3-oss/create-t3-app), and [shadcn/ui](https://github.com/shadcn/ui)
 - 📫 How to reach me at https://www.instagram.com/gdbianchii/
 
 <!---
