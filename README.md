@@ -1,11 +1,10 @@
 Hi 👋 My name is Gabriel Bianchi
 ================================
 
-full stack engineer typescript maniac trpc admirer sql injector addict extraordinaire
+full stack engineer based on brazil
 -------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Brazil
-* 🚀  I'm currently working on [Kodix](http://kodix.com.br)
 * ⚡  I might be addicted to typesafety
 
 <a href="https://www.x.com/gdbianchii" target="_blank" rel="noreferrer"><img
