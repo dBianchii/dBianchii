@@ -1,7 +1,7 @@
 Hi 👋 My name is Gabriel Bianchi
 ================================
 
-full stack engineer based on brazil
+full stack engineer based in brazil
 -------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Brazil
