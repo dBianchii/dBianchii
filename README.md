@@ -4,8 +4,7 @@ Hi 👋 My name is Gabriel Bianchi
 full stack engineer based in brazil
 -------------------------------------------------------------------------------------
 
-* 🌍  I'm based in Brazil
-* ⚡  I might be addicted to typesafety
+* I might be addicted to typesafety
 
 <a href="https://www.x.com/gdbianchii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/gdbianchii?logo=twitter&style=for-the-badge&color=444e59&labelColor=000000"
