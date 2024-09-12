@@ -6,10 +6,6 @@ full stack engineer based in brazil
 
 * I might be addicted to typesafety
 
-<a href="https://www.x.com/gdbianchii" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/gdbianchii?logo=twitter&style=for-the-badge&color=444e59&labelColor=000000"
-/></a>
-
 ### Tech I'm passionate about
 
 
