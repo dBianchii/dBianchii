@@ -15,10 +15,6 @@ full stack engineer based in brazil
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/dBianchii"><img src="https://github-readme-stats.vercel.app/api?username=dBianchii&show_icons=true&hide=stars,&count_private=true&title_color=f97316&text_color=ef4444&icon_color=444e59&bg_color=000000&hide_border=true&show_icons=true" alt="dBianchii's GitHub stats" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/dBianchii/kodix-turbo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dBianchii&repo=kodix-turbo&title_color=f97316&text_color=ef4444&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
