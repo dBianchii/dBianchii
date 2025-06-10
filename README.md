@@ -1,4 +1,4 @@
-Hi 👋 My name is Gabriel Bianchi
+Hello I'm Gabriel
 ================================
 
 full stack engineer based in brazil
